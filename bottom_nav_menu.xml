@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/facultyFragment"
+        android:icon="@drawable/faculty"
+        android:title="Faculty" />
+    <item
+        android:id="@+id/courseFragment"
+        android:icon="@drawable/course"
+        android:title="Courses" />
+    <item
+        android:id="@+id/admissionsFragment"
+        android:icon="@drawable/admission"
+        android:title="Admissions" />
+    <item
+        android:id="@+id/socialMediaFragment"
+        android:icon="@drawable/social_media"
+        android:title="Social Media" />
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506761220438",
+    "project_id": "uccitapp-7e35f",
+    "storage_bucket": "uccitapp-7e35f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506761220438:android:1f8f48c35a6d587c0fc6f7",
+        "android_client_info": {
+          "package_name": "com.example.uccitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAscECrhbGbo4VnDdMCNuAsnpAQQT4KV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
